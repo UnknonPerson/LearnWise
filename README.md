@@ -7,9 +7,9 @@
 ## 📌 Problem
 
 Learners often struggle to find the best resources because:
-- Too many options (YouTube, blogs, courses)
-- No personalization (beginner vs advanced, fast vs slow learners)
-- Generic ratings that don’t reflect individual learning styles
+- Too many options (YouTube, blogs, courses).
+- No personalization (beginner vs advanced, fast vs slow learners).
+- Generic ratings that don’t reflect individual learning styles.
 
 ---
 
@@ -46,6 +46,7 @@ Each resource is rated based on:
 - Depth
 - Practicality
 - Speed suitability
+- Overview
 
 ---
 
@@ -57,7 +58,7 @@ Each resource is rated based on:
 
 ---
 
-### 🧭 Learning Path Generator (Optional)
+### 🧭 Learning Path Generator (Roadmap)
 - Input: “Learn Backend in 2 weeks”
 - Output: Structured roadmap + resources
 
